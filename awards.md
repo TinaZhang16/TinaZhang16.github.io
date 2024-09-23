@@ -99,7 +99,7 @@ ul {
 <body>
 
 <ul>
-<li><div><p class="margin">06/2024<h style="letter-spacing:10px">:</h>Outstanding Graduates of China University of Mining and Technology </p></div></li>
+<li><div><p class="margin">06/2024<h style="letter-spacing:10px">:</h>Excellent undergraduate thesis of Shaanxi Province </p></div></li>
 <li><div><p class="margin">12/2023<h style="letter-spacing:10px">:</h>Outstanding Student Cadres of China University of Mining and Technology </p></div></li>
 <li><div><p class="margin">06/2023<h style="letter-spacing:10px">:</h><span class="thick">Outstanding Student Cadres of Jiangsu Province </span></p></div></li>
   <li><div>
