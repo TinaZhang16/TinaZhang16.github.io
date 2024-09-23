@@ -24,7 +24,7 @@ ul {
 </style>
 
 <ul>
-<li><div><p class="margin">07/2022<h style="letter-spacing:10px">:</h><span class="thick">Excellent undergraduate thesis of Shaanxi Province</span></p></div></li>
+<li><div><p class="margin">07/2022<h style="letter-spacing:10px">:</h><span class="thick">First-class public scholarship of Nankai University(10%)</span></p></div></li>
 <li><div><p class="margin">11/2020<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
 <li><div><p class="margin">11/2019<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
 </ul>
@@ -56,7 +56,7 @@ ul {
 
 <ul>
   <li><div>
-  <p class="margin">07/2023<h style="letter-spacing:10px">:</h>Second Prize in the Second Division of the East China Region of the "Siemens Cup" China Intelligent Manufacturing Challenge </p></div></li>
+  <p class="margin">07/2023<h style="letter-spacing:10px">:</h>The third prize of "Huawei Cup" 5th China Graduate Student Artificial Intelligence Innovation Competition </p></div></li>
   <li><div>
   <p class="margin">04/2023<h style="letter-spacing:10px">:</h>Third Prize in the 14th Blue Bridge Cup EDA Design and Development Jiangsu Competition</p></div></li>
   <li><div>
