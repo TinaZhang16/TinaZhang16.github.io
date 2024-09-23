@@ -26,7 +26,7 @@ ul {
 </style>
 
 <ul>
-  <li><div><p class="margin">Hold on...</p></div></li>
+  <li><div><p class="margin"> <span class="thick">Hold on...</p></div></li>
 </ul>
 
 
