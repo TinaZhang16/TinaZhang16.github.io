@@ -24,9 +24,9 @@ ul {
 </style>
 
 <ul>
-<li><div><p class="margin">12/2022<h style="letter-spacing:10px">:</h><span class="thick">Excellent undergraduate thesis of Shaanxi Province</p>
-<li><div><p class="margin">12/2020<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
-<li><div><p class="margin">12/2019<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
+<li><div><p class="margin">07/2022<h style="letter-spacing:10px">:</h><span class="thick">Excellent undergraduate thesis of Shaanxi Province</p>
+<li><div><p class="margin">11/2020<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
+<li><div><p class="margin">11/2019<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
 </div></li>
 </ul>
 
