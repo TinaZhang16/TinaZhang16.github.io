@@ -4,7 +4,7 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-### Debate competition
+### Go Hiking
 
 <div class="two">
 <img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/debate%20competition.jpg?raw=true">
