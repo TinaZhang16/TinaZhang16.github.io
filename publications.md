@@ -26,7 +26,7 @@ ul {
 </style>
 
 <ul>
-  <li><div><p class="margin"> Zhang Tingyu, Zheng Chen, Sun Mingwei, et al. Research on Intelligent Maneuvering Decision in Close Air Combat Based on Deep Q Network[C]//2023 IEEE 12th Data Driven Control and Learning Systems Conference (DDCLS). IEEE, 2023: 1044-1049.</h><span class="thick">(Indexed by web of science) </p></div></li>
+  <li><div><p class="margin"> Zhang Tingyu, Zheng Chen, Sun Mingwei, et al. Research on Intelligent Maneuvering Decision in Close Air Combat Based on Deep Q Network[C]//2023 IEEE 12th Data Driven Control and Learning Systems Conference (DDCLS). IEEE, 2023: 1044-1049. <strong>(Indexed by Web of Science)</strong> </p></div></li>
   <li><div><p class="margin"> Zhang T, Wang Y, Sun M, et al. Air combat maneuver decision based on deep reinforcement learning with auxiliary reward[J]. Neural Computing and Applications, 2024: 1-16. (JCR Q2 journal) </p></div></li>
   <li><div><p class="margin"> Zhang T, Wang Y, Sun M, et al. Active Disturbance Rejection Gain Scheduling Control of Hypersonic Vehicle Based on Guardian Maps[C]//2024 IEEE 13th Data Driven Control and Learning Systems Conference (DDCLS). IEEE.  </p></div></li>
 </ul>
