@@ -27,6 +27,8 @@ ul {
 
 <ul>
   <li><div><p class="margin"> Zhang Tingyu, Zheng Chen, Sun Mingwei, et al. Research on Intelligent Maneuvering Decision in Close Air Combat Based on Deep Q Network[C]//2023 IEEE 12th Data Driven Control and Learning Systems Conference (DDCLS). IEEE, 2023: 1044-1049. </p></div></li>
+  <li><div><p class="margin"> Zhang Tingyu, Zheng Chen, Sun Mingwei, et al. Research on Intelligent Maneuvering Decision in Close Air Combat Based on Deep Q Network[C]//2023 IEEE 12th Data Driven Control and Learning Systems Conference (DDCLS). IEEE, 2023: 1044-1049. </p></div></li>
+  <li><div><p class="margin"> Zhang Tingyu, Zheng Chen, Sun Mingwei, et al. Research on Intelligent Maneuvering Decision in Close Air Combat Based on Deep Q Network[C]//2023 IEEE 12th Data Driven Control and Learning Systems Conference (DDCLS). IEEE, 2023: 1044-1049. </p></div></li>
 </ul>
 
 
