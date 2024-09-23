@@ -39,15 +39,17 @@ ul {
 p {
   text-align: justify;
 }
-
 p.margin{
 
     margin-bottom: 3px;
 }
+
+span.thick {
+  font-weight: bold;
+}
 ul {
   padding: 20px;
 }
-
 </style>
 
 <body>
