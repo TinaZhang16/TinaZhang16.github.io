@@ -20,7 +20,7 @@ span.thick {
 <body>
 
 <div>
-  <p>Here is  <span class="thick">Tingyu Zhang (Tina)</span>. I'm a third-year Master student in the Department of Control Science and Engineering, Nankai University, my supervisor is Professor Mingwei Sun. Previously, I receive B.E. in Automation from Chang'an University in 2022. Here is my <a href="CV.pdf" target="_blank">CV</a>
+  <p>Here is  <span class="thick">Tingyu Zhang (Tina)</span>. I'm a third-year Master student in the Department of Control Science and Engineering, Nankai University, my supervisor is Professor Mingwei Sun. Previously, I receive B.E. in Automation from Chang'an University in 2022. Here is my <a href="CV.pdf" target="_blank">CV</a>.
 </p>
 </div>
 </body>
