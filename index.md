@@ -20,7 +20,7 @@ span.thick {
 <body>
 
 <div>
-  <p>Here is  <span class="thick">Yu Luan (Raina, 栾雨)</span>. PhD candidate in the Department of Control Science and Engineering, Nankai University, my supervisor is Professor Qinglin Sun.</p>
+  <p>Here is  <span class="thick">Tingyu Zhang (Tina, 张婷玉)</span>. PhD candidate in the Department of Control Science and Engineering, Nankai University, my supervisor is Professor Mingwei Sun.</p>
 </div>
 </body>
 </html>
