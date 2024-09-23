@@ -47,8 +47,8 @@ ul {
 
 <body>
 <ul>
-<li><div><p class="margin"> <span class="thick">09/2024-06/2029:</span> PhD of Engineering in the Department of Control Science and Engineering, Nankai University (expectation)</p></div></li>
-<li><div><p class="margin"> <span class="thick">09/2020-06/2024<h style="letter-spacing:10px">:</h></span>Bachelor of Engineering in the Department of Automation, China University of Mining and Technology </p></div></li>
+<li><div><p class="margin"> <span class="thick">09/2022-07/2025:</span> Master of Engineering in the Electronic Information, Nankai University (expectation)</p></div></li>
+<li><div><p class="margin"> <span class="thick">09/2018-07/2022<h style="letter-spacing:10px">:</h></span>Bachelor of Engineering in Automation, Chang'an University </p></div></li>
 </ul></body>
 
 
