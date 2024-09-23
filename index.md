@@ -75,9 +75,9 @@ ul {
 <body>
 
 <ul>
-<li><div><p class="margin"> Parafoil trajectory planning based on deep reinforcement learning</p></div></li>
-<li><div><p class="margin"> Deep reinforcement learning algorithm optimization</p></div></li>
-<li><div><p class="margin"> Collaborative control</p></div></li>
+<li><div><p class="margin"> Flight control</p></div></li>
+<li><div><p class="margin"> Deep reinforcement learning algorithm </p></div></li>
+<li><div><p class="margin"> Active disturbance rejection controlADRC</p></div></li>
 <li><div><p class="margin"> Nonlinear control</p></div></li>
 </ul></body>
 
