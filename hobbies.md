@@ -7,8 +7,9 @@ title: Hobbies
 ### Go Hiking
 
 <div class="two">
-<img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/debate%20competition.jpg?raw=true">
-<img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/debate%20competition3.jpg?raw=true">
+<img src="https://github.com/TinaZhang16/TinaZhang16.github.io/blob/main/images/hobby/hiking_1.jpg?raw=true">
+<img src="https://github.com/TinaZhang16/TinaZhang16.github.io/blob/main/images/hobby/hiking_2.jpg?raw=true">
+<img src="https://github.com/TinaZhang16/TinaZhang16.github.io/blob/main/images/hobby/hiking_3.jpg?raw=true">
 </div>
 
 
@@ -25,7 +26,7 @@ p {
 <body>
 
 <div>
-  <p>“Hiking has always been a favorite pastime for me, offering a perfect blend of physical challenge and mental relaxation. The serene beauty of nature, whether it's a snowy forest trail, towering mountain peaks, or tranquil vistas from a mountaintop, gives me a sense of peace and freedom. I enjoy exploring new trails, pushing my limits, and immersing myself in the scenic views along the way. I wish I am always on the way. </p>
+  <p>“ Hiking has always been a favorite pastime for me, offering a perfect blend of physical challenge and mental relaxation. The serene beauty of nature, whether it's a snowy forest trail, towering mountain peaks, or tranquil vistas from a mountaintop, gives me a sense of peace and freedom. I enjoy exploring new trails, pushing my limits, and immersing myself in the scenic views along the way. I wish I am always on the way. </p>
 </div>
 </body>
 </html>
