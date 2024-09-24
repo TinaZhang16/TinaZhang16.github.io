@@ -83,7 +83,7 @@ p {
 <body>
 
 <div>
-  <p>I like photography, it allows me to discover and record beauty, and it gives me unlimited room for imagination. The picture above is of my alma mater, China University of Mining and Technology, where there are seas of flowers, black swans, and mountains... I will always love my alma mater. But my photography skills still have a lot of room for improvement.</p>
+  <p>I think volleyball is a sport that not only challenges me physically but also fosters teamwork and communication. Whether I'm on the court practicing serves or working with my teammates to execute strategic plays, volleyball teaches me discipline, persistence, and the importance of collaboration. Volleyball has become more than just a hobby for me—it’s a way to build friendships, learn valuable life lessons, and stay active.</p>
 </div>
 
 </body>
