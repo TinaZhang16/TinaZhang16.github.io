@@ -36,10 +36,10 @@ p {
 
 ### Swimming
 
-<div class="two">
-<img src="https://github.com/TinaZhang16/TinaZhang16.github.io/blob/main/images/hobby/hiking_1.jpg?raw=true">
-<img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/host2.jpg?raw=true">
-</div>
+#<div class="two">
+#<img src="https://github.com/TinaZhang16/TinaZhang16.github.io/blob/main/images/hobby/hiking_1.jpg?raw=true">
+#<img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/host2.jpg?raw=true">
+#</div>
 
 <html>
 
@@ -53,7 +53,7 @@ p {
 <body>
 
 <div>
-  <p>I love hosting and reciting. I like speaking out in front of the public and conveying my voice to everyone. But due to the ever-increasing workload of study, I haven’t participated in similar activities for a long time.</p>
+  <p>I love swimming, offering both relaxation and a full-body workout. Whether in a pool or open water, it helps me stay active, clear my mind, and enjoy the refreshing feeling of being in the water.</p>
 </div>
 
 </body>
