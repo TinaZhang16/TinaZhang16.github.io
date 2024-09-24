@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/490c6f2c-3dd0-4594-a7e1-63d1313b731b)---
 layout: page
 permalink: /hobbies/index.html
 title: Hobbies
