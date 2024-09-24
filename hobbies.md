@@ -26,7 +26,7 @@ p {
 <body>
 
 <div>
-  <p>“ Hiking has always been a favorite pastime for me, offering a perfect blend of physical challenge and mental relaxation. The serene beauty of nature, whether it's a snowy forest trail, towering mountain peaks, or tranquil vistas from a mountaintop, gives me a sense of peace and freedom. I enjoy exploring new trails, pushing my limits, and immersing myself in the scenic views along the way. I wish I am always on the way. </p>
+  <p> Hiking has always been a favorite pastime for me, offering a perfect blend of physical challenge and mental relaxation. The serene beauty of nature, whether it's a snowy forest trail, towering mountain peaks, or tranquil vistas from a mountaintop, gives me a sense of peace and freedom. I enjoy exploring new trails, pushing my limits, and immersing myself in the scenic views along the way. I wish I am always on the way. </p>
 </div>
 </body>
 </html>
