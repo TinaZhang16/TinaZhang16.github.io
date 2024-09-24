@@ -104,7 +104,7 @@ ul {
 <body>
 
 <ul>
-    <li><div><p class="margin">09/2024<h style="letter-spacing:10px">:</h>I am honored to be a <span class="thick"> Merit student of Nankai University</span>. </p></div></li>
+    <li><div><p class="margin">09/2024<h style="letter-spacing:10px">:</h>I won the honorary title of  <span class="thick"> Merit student of Nankai University</span>. </p></div></li>
 </ul>
 
 </body>
