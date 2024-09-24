@@ -34,7 +34,7 @@ p {
 
 ------
 
-### Swimmig
+### Swimming
 
 <div class="two">
 <img src="https://github.com/TinaZhang16/TinaZhang16.github.io/blob/main/images/hobby/hiking_1.jpg?raw=true">
