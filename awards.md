@@ -24,7 +24,7 @@ ul {
 </style>
 
 <ul>
-<li><div><p class="margin">07/2022<h style="letter-spacing:10px">:</h><span class="thick">First-class public scholarship of Nankai University(10%)</span></p></div></li>
+<li><div><p class="margin">09/2023<h style="letter-spacing:10px">:</h><span class="thick">First-class public scholarship of Nankai University(10%)</span></p></div></li>
 <li><div><p class="margin">11/2020<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
 <li><div><p class="margin">11/2019<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
 </ul>
@@ -71,8 +71,7 @@ ul {
   <p class="margin">08/2022<h style="letter-spacing:10px">:</h>Third Prize in the 8th Jiangsu Province Internet+ College Students Innovation and Entrepreneurship Competition</p></div></li>
   <li><div>
   <p class="margin">06/2022<h style="letter-spacing:10px">:</h>Third Prize in the 12th MathorCup Collegiate Mathematical Modeling Challenge </p></div></li>
-  <li><div>
-  <p class="margin">04/2021<h style="letter-spacing:10px">:</h>Third Prize in the 15th Campus Electronic Design Competition of China University of Mining and Technology</p></div></li>
+
 </ul>
 
 </body>
