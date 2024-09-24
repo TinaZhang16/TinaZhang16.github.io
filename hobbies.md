@@ -36,9 +36,6 @@ p {
 
 ### Swimming
 
-<div class="two">
-
-</div>
 
 <html>
 
