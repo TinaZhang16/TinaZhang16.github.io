@@ -36,7 +36,7 @@ p {
 ### Swimmig
 
 <div class="two">
-<img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/host1.jpg?raw=true">
+<img src="https://github.com/TinaZhang16/TinaZhang16.github.io/blob/main/images/hobby/hiking_1.jpg">
 <img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/host2.jpg?raw=true">
 </div>
 
