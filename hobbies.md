@@ -25,7 +25,7 @@ p {
 <body>
 
 <div>
-  <p>“Debate is not about getting answers, it’s about keeping the pursuit going.” I like the fun of thinking, the fun of checking information and writing a manuscript as a team, and the fun of concentrating on asking questions in the debate. The meaning of the debate itself is definitely greater than the result of winning or losing. Debating not only makes my thinking more agile, but also makes me look at problems more rationally.</p>
+  <p>“Hiking has always been a favorite pastime for me, offering a perfect blend of physical challenge and mental relaxation. The serene beauty of nature, whether it's a snowy forest trail, towering mountain peaks, or tranquil vistas from a mountaintop, gives me a sense of peace and freedom. I enjoy exploring new trails, pushing my limits, and immersing myself in the scenic views along the way. I wish I am always on the way. </p>
 </div>
 </body>
 </html>
