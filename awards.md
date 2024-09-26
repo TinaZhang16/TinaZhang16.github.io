@@ -96,7 +96,7 @@ ul {
 <body>
 
 <ul>
-<li><div><p class="margin">09/2024<h style="letter-spacing:10px">:</h><span class="thick">Honorary Title of Merit Student of Nankai University </span></p></div></li>
+<li><div><p class="margin">09/2024<h style="letter-spacing:10px">:</h><span class="thick"> Honorary Title of Merit Student of Nankai University </span></p></div></li>
 <li><div><p class="margin">06/2022<h style="letter-spacing:10px">:</h> Excellent Undergraduate Thesis of Shaanxi Province </p></div></li>
 <li><div><p class="margin">06/2022<h style="letter-spacing:10px">:</h> Outstanding Graduate of Chang 'an University </p></div></li>
   <li><div>
