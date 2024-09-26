@@ -24,7 +24,7 @@ ul {
 </style>
 
 <ul>
-<li><div><p class="margin">11/2020<h style="letter-spacing:10px">:</h><span class="thick">Nankai University special scholarship for Innovation and entrepreneurship</span></p></div></li>  
+<li><div><p class="margin">09/2024<h style="letter-spacing:10px">:</h><span class="thick">Nankai University special scholarship for Innovation and entrepreneurship</span></p></div></li>  
 <li><div><p class="margin">09/2023<h style="letter-spacing:10px">:</h><span class="thick">First-class public scholarship of Nankai University(10%)</span></p></div></li>
 <li><div><p class="margin">11/2020<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
 <li><div><p class="margin">11/2019<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
@@ -100,17 +100,11 @@ ul {
 <li><div><p class="margin">06/2022<h style="letter-spacing:10px">:</h> Excellent Undergraduate Thesis of Shaanxi Province </p></div></li>
 <li><div><p class="margin">06/2022<h style="letter-spacing:10px">:</h> Outstanding Graduate of Chang 'an University </p></div></li>
   <li><div>
-  <p class="margin">05/2023<h style="letter-spacing:10px">:</h>Outstanding Communist Youth League Member of China University of Mining and Technology</p></div></li>
+  <p class="margin">05/2023<h style="letter-spacing:10px">:</h>Outstanding Communist Youth League Member of Chang'an University</p></div></li>
   <li><div>
-  <p class="margin">03/2023<h style="letter-spacing:10px">:</h>Outstanding Female Student Cadres of China University of Mining and Technology</p></div></li>
-  <li><div>
-  <p class="margin">12/2022<h style="letter-spacing:10px">:</h>Outstanding Student Cadres of China University of Mining and Technology</p></div></li>
-  <li><div>
-  <p class="margin">05/2022<h style="letter-spacing:10px">:</h>Outstanding Communist Youth League Cadres of China University of Mining and Technology</p></div></li>
-  <li><div>
-  <p class="margin">12/2021<h style="letter-spacing:10px">:</h>Outstanding Student Cadres of School of Information and Control Engineering, China University of Mining and Technology </p></div></li>
-  <li><div>
-  <p class="margin">05/2021<h style="letter-spacing:10px">:</h>Outstanding Communist Youth League Cadres of China University of Mining and Technology </p></div></li>
+  <p class="margin">12/2022<h style="letter-spacing:10px">:</h>Outstanding Student Cadres of Chang'an University</p></div></li>
+
+
 </ul>
 
 
