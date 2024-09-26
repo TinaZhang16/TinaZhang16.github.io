@@ -86,6 +86,6 @@ ul {
 </style>
 
 <ul>
-  <li><div><p class="margin"><h style="letter-spacing:10px">:</h>... </p></div></li>
+  <li><div><p class="margin"><h style="letter-spacing:10px"></h>... </p></div></li>
 </ul>
 
