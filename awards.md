@@ -24,6 +24,7 @@ ul {
 </style>
 
 <ul>
+<li><div><p class="margin">11/2020<h style="letter-spacing:10px">:</h><span class="thick">Nankai University special scholarship for Innovation and entrepreneurship</span></p></div></li>  
 <li><div><p class="margin">09/2023<h style="letter-spacing:10px">:</h><span class="thick">First-class public scholarship of Nankai University(10%)</span></p></div></li>
 <li><div><p class="margin">11/2020<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
 <li><div><p class="margin">11/2019<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
