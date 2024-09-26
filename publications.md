@@ -56,7 +56,7 @@ ul {
 </style>
 
 <ul>
-  <li><div><p class="margin">05/2023<h style="letter-spacing:10px">:</h>A Coal Release Device Based on Integrated Mining (Fourth author)</p></div></li>
+  <li><div><p class="margin">...</p></div></li>
 </ul>
 
 
